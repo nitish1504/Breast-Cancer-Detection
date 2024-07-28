@@ -1,6 +1,6 @@
-# Breast-Cancer-Detection-Project
+# Breast Cancer Detection
 ## Classification Project:
-To detect whether a person's cancer is Benign or Malignant
+Detecting whether a person's cancer is Benign or Malignant
 
 ## Models Used:
 Logistic Regression (Best) & Random Forest
